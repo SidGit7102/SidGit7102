@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-
-**SidGit7102/SidGit7102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-###
 ### I am Siddharth Sharma
 ### - 🔭 I’m currently working on Data Science and DSA...
 ### - 🌱 I’m currently learning DSA...
