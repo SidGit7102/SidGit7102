@@ -13,9 +13,9 @@ I am an aspiring software developer with a strong focus on creating efficient an
 
 ## 🛠️ Skills and Technologies
 
-- **Programming Languages**: ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B)
-- **Libraries and Frameworks**: ![OpenCV](https://img.shields.io/badge/-OpenCV-333333?style=flat&logo=opencv) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow) ![Keras](https://img.shields.io/badge/-Keras-333333?style=flat&logo=keras) ![NumPy](https://img.shields.io/badge/-NumPy-333333?style=flat&logo=numpy) ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas) ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-333333?style=flat&logo=scikit-learn) ![dlib](https://img.shields.io/badge/-dlib-333333?style=flat&logo=lib)
-- **Tools**: ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+- **Programming Languages**: ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B)
+- **Libraries and Frameworks**: ![NumPy](https://img.shields.io/badge/-NumPy-333333?style=flat&logo=numpy) ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas) ![OpenCV](https://img.shields.io/badge/-OpenCV-333333?style=flat&logo=opencv) ![dlib](https://img.shields.io/badge/-dlib-333333?style=flat&logo=lib) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow) ![Keras](https://img.shields.io/badge/-Keras-333333?style=flat&logo=keras)   ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-333333?style=flat&logo=scikit-learn) 
+- **Tools**: ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker) ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium) 
 - **Web Development**: ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3) ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 
 
@@ -24,6 +24,21 @@ I am an aspiring software developer with a strong focus on creating efficient an
 ### Driver Drowsiness Detection System
 Developed a drowsiness detection system using **OpenCV** for image and video processing tasks. Implemented face detection and facial landmark localization using **dlib**'s pre-trained models. Utilized **NumPy** for numerical operations and array manipulation, enhancing the efficiency of facial landmark processing. Evaluated the performance of the system using metrics provided by **scikit-learn**.
 
+- **Features**:
+  -Real-time detection of driver drowsiness
+  -High accuracy in recognizing eye and facial patterns
+  -Robust performance under varying lighting conditions
+  -Easy integration with existing vehicle monitoring systems
+  
+### Pedestrian Detection System
+A system designed to detect pedestrians in real-time from video streams, enhancing safety in various applications such as autonomous driving, surveillance, and traffic management. The system uses advanced computer vision techniques to accurately identify and track pedestrians, even in crowded environments.
+
+- **Features**:
+  - Real-time pedestrian detection and tracking
+  - High accuracy in various environmental conditions
+  - Integration with traffic management systems for improved safety
+  - Potential use in autonomous driving systems
+    
 ### License Plate Recognition
 Implemented a license plate recognition system using **OpenCV** and **Tesseract OCR**. This project involves detecting license plates in images and extracting the text for further processing. The system is designed to work with various types of license plates and can handle different lighting conditions and image qualities. It has applications in traffic management, parking systems, and security enforcement.
 
@@ -43,14 +58,7 @@ A system that recognizes and displays human emotions in real-time using webcam i
   - User-friendly interface with real-time feedback
   - Potential integration with mental health monitoring tools
 
-### Pedestrian Detection System
-A system designed to detect pedestrians in real-time from video streams, enhancing safety in various applications such as autonomous driving, surveillance, and traffic management. The system uses advanced computer vision techniques to accurately identify and track pedestrians, even in crowded environments.
 
-- **Features**:
-  - Real-time pedestrian detection and tracking
-  - High accuracy in various environmental conditions
-  - Integration with traffic management systems for improved safety
-  - Potential use in autonomous driving systems
 
 ## 📬 How to Reach Me
 
