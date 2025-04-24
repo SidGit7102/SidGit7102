@@ -15,8 +15,6 @@ I am an aspiring software developer with a strong focus on creating efficient an
 
 ### 🚀 Tech Stack
 
-### 🚀 Tech Stack
-
 - **Programming Languages**: Core languages used for building logic and applications.  
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B)
 
