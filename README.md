@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm passionate about software development and mach
 
 ## About Me
 
-I am an aspiring software developer with a strong focus on creating efficient and innovative solutions. My interests include machine learning, web development, and I love astronomy by heart. I enjoy tackling challenging problems and continuously improving my skill set.
+I am an aspiring software developer with a strong focus on creating efficient and innovative solutions. My interests include machine learning, backend development, and I love astronomy by heart. I enjoy tackling challenging problems and continuously improving my skill set.
 
 - 🌱 Currently learning: Advanced machine learning techniques and Backend development.
 - 💬 Ask me about: Python, DSA Problems, Machine Learning and a little about Astronomy.
@@ -13,12 +13,43 @@ I am an aspiring software developer with a strong focus on creating efficient an
 
 ## 🛠️ Skills and Technologies
 
-- **Programming Languages**: ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B)
-- **Libraries and Frameworks**: ![NumPy](https://img.shields.io/badge/-NumPy-333333?style=flat&logo=numpy) ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas) ![OpenCV](https://img.shields.io/badge/-OpenCV-333333?style=flat&logo=opencv) ![dlib](https://img.shields.io/badge/-dlib-333333?style=flat&logo=lib) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow) ![Keras](https://img.shields.io/badge/-Keras-333333?style=flat&logo=keras)   ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-333333?style=flat&logo=scikit-learn) 
-- **Tools**: ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker) ![Selenium](https://img.shields.io/badge/-Selenium-000000?style=flat&logo=selenium)
-- **Backend Development**:  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)  ![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi)  
-  ![REST API](https://img.shields.io/badge/-REST%20API-333333?style=flat&logo=api)  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)  
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+### 🚀 Tech Stack
+
+- **Programming Languages**:  
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)  
+  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B)
+
+- **Libraries and Frameworks**:  
+  ![NumPy](https://img.shields.io/badge/-NumPy-333333?style=flat&logo=numpy)  
+  ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)  
+  ![OpenCV](https://img.shields.io/badge/-OpenCV-333333?style=flat&logo=opencv)  
+  ![dlib](https://img.shields.io/badge/-dlib-333333?style=flat&logo=lib)  
+  ![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow)  
+  ![Keras](https://img.shields.io/badge/-Keras-333333?style=flat&logo=keras)  
+  ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-333333?style=flat&logo=scikit-learn)
+
+- **Tools**:  
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)  
+  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)  
+  ![Selenium](https://img.shields.io/badge/-Selenium-333333?style=flat&logo=selenium)
+
+- **Backend Development**:  
+  ![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi)  
+  ![REST API](https://img.shields.io/badge/-REST%20API-333333?style=flat&logo=api)  
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)  
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)  
+  ![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis)  
+  ![Apache Kafka](https://img.shields.io/badge/-Kafka-333333?style=flat&logo=apachekafka)  
+  ![Microservices](https://img.shields.io/badge/-Microservices-333333?style=flat&logo=microgen)
+
+- **Monitoring & Observability**:  
+  ![Grafana Loki](https://img.shields.io/badge/-Grafana%20Loki-333333?style=flat&logo=grafana)  
+  ![Prometheus](https://img.shields.io/badge/-Prometheus-333333?style=flat&logo=prometheus)  
+  ![ELK Stack](https://img.shields.io/badge/-ELK%20Stack-333333?style=flat&logo=elasticstack)
+
+- **DevOps & Deployment**:  
+  ![DevOps](https://img.shields.io/badge/-DevOps-333333?style=flat&logo=dev.to)  
+  ![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes)
 
 
 ## 🚀 Projects
