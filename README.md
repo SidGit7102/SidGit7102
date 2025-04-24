@@ -36,6 +36,17 @@ I am an aspiring software developer with a strong focus on creating efficient an
 
 ## 🚀 Projects
 
+### Loki Log Aggregation & Visualization System
+Designed and implemented a log aggregation pipeline that streams logs to **Kafka**, consumes them for processing, and forwards them to **Loki** for long-term storage and querying. Developed a **FastAPI** service with multiple endpoints to fetch logs from Loki via its REST API and provide real-time visualization and analytics. Used **Python** scripting to automate the log extraction and aggregation workflows, enabling efficient monitoring and debugging.
+
+- **Features**:
+  - Real-time ingestion and processing of logs via **Kafka**
+  - Log forwarding to **Loki** for efficient storage and querying
+  - API-based log retrieval using **FastAPI** with clean and scalable endpoints
+  - Automated log aggregation and summary generation using **Python**
+  - Visualization-ready data formatting compatible with **Grafana**
+  - Scalable microservice-friendly architecture with easy cloud integration
+
 ### Driver Drowsiness Detection System
 Developed a drowsiness detection system using **OpenCV** for image and video processing tasks. Implemented face detection and facial landmark localization using **dlib**'s pre-trained models. Utilized **NumPy** for numerical operations and array manipulation, enhancing the efficiency of facial landmark processing. Evaluated the performance of the system using metrics provided by **scikit-learn**.
 
@@ -54,24 +65,6 @@ A system designed to detect pedestrians in real-time from video streams, enhanci
   - Integration with traffic management systems for improved safety
   - Potential use in autonomous driving systems
     
-### License Plate Recognition
-Implemented a license plate recognition system using **OpenCV** and **Tesseract OCR**. This project involves detecting license plates in images and extracting the text for further processing. The system is designed to work with various types of license plates and can handle different lighting conditions and image qualities. It has applications in traffic management, parking systems, and security enforcement.
-
-- **Features**:
-  - Real-time license plate detection
-  - High accuracy in text recognition
-  - Robust against different lighting conditions
-  - Easy integration with existing security systems
-
-
-### Real-Time Emotion Detection System
-A system that recognizes and displays human emotions in real-time using webcam input. It uses deep learning models to analyze facial expressions and classify them into different emotional categories such as happy, sad, angry, surprised, and neutral. This system has potential applications in user experience enhancement, mental health monitoring, and interactive entertainment.
-
-- **Features**:
-  - Real-time emotion detection
-  - Accurate classification of multiple emotions
-  - User-friendly interface with real-time feedback
-  - Potential integration with mental health monitoring tools
 
 
 
