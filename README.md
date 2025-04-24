@@ -15,41 +15,25 @@ I am an aspiring software developer with a strong focus on creating efficient an
 
 ### 🚀 Tech Stack
 
-- **Programming Languages**:  
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)  
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B)
+### 🚀 Tech Stack
 
-- **Libraries and Frameworks**:  
-  ![NumPy](https://img.shields.io/badge/-NumPy-333333?style=flat&logo=numpy)  
-  ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)  
-  ![OpenCV](https://img.shields.io/badge/-OpenCV-333333?style=flat&logo=opencv)  
-  ![dlib](https://img.shields.io/badge/-dlib-333333?style=flat&logo=lib)  
-  ![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow)  
-  ![Keras](https://img.shields.io/badge/-Keras-333333?style=flat&logo=keras)  
-  ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-333333?style=flat&logo=scikit-learn)
+- **Programming Languages**: Core languages used for building logic and applications.  
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B)
 
-- **Tools**:  
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)  
-  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)  
-  ![Selenium](https://img.shields.io/badge/-Selenium-333333?style=flat&logo=selenium)
+- **Libraries and Frameworks**: Powerful tools for data science, computer vision, and machine learning.  
+  ![NumPy](https://img.shields.io/badge/-NumPy-333333?style=flat&logo=numpy) ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas) ![OpenCV](https://img.shields.io/badge/-OpenCV-333333?style=flat&logo=opencv) ![dlib](https://img.shields.io/badge/-dlib-333333?style=flat&logo=lib) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow) ![Keras](https://img.shields.io/badge/-Keras-333333?style=flat&logo=keras) ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-333333?style=flat&logo=scikit-learn)
 
-- **Backend Development**:  
-  ![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi)  
-  ![REST API](https://img.shields.io/badge/-REST%20API-333333?style=flat&logo=api)  
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)  
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)  
-  ![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis)  
-  ![Apache Kafka](https://img.shields.io/badge/-Kafka-333333?style=flat&logo=apachekafka)  
-  ![Microservices](https://img.shields.io/badge/-Microservices-333333?style=flat&logo=microgen)
+- **Tools**: Essential utilities for development, version control, automation, and testing.  
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker) ![Selenium](https://img.shields.io/badge/-Selenium-333333?style=flat&logo=selenium) ![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
 
-- **Monitoring & Observability**:  
-  ![Grafana Loki](https://img.shields.io/badge/-Grafana%20Loki-333333?style=flat&logo=grafana)  
-  ![Prometheus](https://img.shields.io/badge/-Prometheus-333333?style=flat&logo=prometheus)  
-  ![ELK Stack](https://img.shields.io/badge/-ELK%20Stack-333333?style=flat&logo=elasticstack)
+- **Backend Development**: Building robust APIs, services, and data-driven backends.  
+  ![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi) ![REST API](https://img.shields.io/badge/-REST%20API-333333?style=flat&logo=api) ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql) ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb) ![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis) ![Apache Kafka](https://img.shields.io/badge/-Kafka-333333?style=flat&logo=apachekafka) ![Microservices](https://img.shields.io/badge/-Microservices-333333?style=flat&logo=microgen)
 
-- **DevOps & Deployment**:  
-  ![DevOps](https://img.shields.io/badge/-DevOps-333333?style=flat&logo=dev.to)  
-  ![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes)
+- **Monitoring & Observability**: Tools to monitor logs, metrics, and system health.  
+  ![Grafana Loki](https://img.shields.io/badge/-Grafana%20Loki-333333?style=flat&logo=grafana) ![Prometheus](https://img.shields.io/badge/-Prometheus-333333?style=flat&logo=prometheus) ![ELK Stack](https://img.shields.io/badge/-ELK%20Stack-333333?style=flat&logo=elasticstack)
+
+- **DevOps & Deployment**: Automating CI/CD, scaling apps, and orchestrating services.  
+  ![DevOps](https://img.shields.io/badge/-DevOps-333333?style=flat&logo=dev.to) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes)
 
 
 ## 🚀 Projects
