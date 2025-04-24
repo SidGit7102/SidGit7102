@@ -16,11 +16,8 @@ I am an aspiring software developer with a strong focus on creating efficient an
 - **Programming Languages**: ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B)
 - **Libraries and Frameworks**: ![NumPy](https://img.shields.io/badge/-NumPy-333333?style=flat&logo=numpy) ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas) ![OpenCV](https://img.shields.io/badge/-OpenCV-333333?style=flat&logo=opencv) ![dlib](https://img.shields.io/badge/-dlib-333333?style=flat&logo=lib) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow) ![Keras](https://img.shields.io/badge/-Keras-333333?style=flat&logo=keras)   ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-333333?style=flat&logo=scikit-learn) 
 - **Tools**: ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker) ![Selenium](https://img.shields.io/badge/-Selenium-000000?style=flat&logo=selenium)
-- **Backend Development**:  
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)  
-  ![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi)  
-  ![REST API](https://img.shields.io/badge/-REST%20API-333333?style=flat&logo=api)  
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)  
+- **Backend Development**:  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)  ![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi)  
+  ![REST API](https://img.shields.io/badge/-REST%20API-333333?style=flat&logo=api)  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)  
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 
 
