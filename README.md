@@ -65,6 +65,12 @@ A system designed to detect pedestrians in real-time from video streams, enhanci
   - Integration with traffic management systems for improved safety
   - Potential use in autonomous driving systems
     
+## 📔 Academic
+
+| Education       | Institution                                   | Score / CGPA | Duration              |
+|-----------------|-----------------------------------------------|-------------|---------------------|
+| B.Tech (CSE)    | Galgotias College of Engineering and Technology (GCET) | 7.9 CGPA    | Nov 2021 – Current |
+| 10+2 (PCM)      | Kendriya Vidyalaya AFS Bamrauli, Prayagraj    | 90.2%       | Mar 2018 – Jul 2020 |
 
 
 
