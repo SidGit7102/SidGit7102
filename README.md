@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Siddharth Sharma
+# 👋 Hi, I'm Siddharth Sharma 
 
 Welcome to my GitHub profile! I'm passionate about software development and machine learning. Here you can find some of my recent projects, learn more about my work, and explore the tools and technologies I use.
 
@@ -79,5 +79,6 @@ A system designed to detect pedestrians in real-time from video streams, enhanci
 - **Email**: sidsharma7102@gmail.com
 - **LinkedIn**: [linkedin.com/in/siddharth-sharma](https://www.linkedin.com/in/siddharth-sharma-1a0301234/)
 - **LeetCode**: https://leetcode.com/u/Sid_Code7102/
+- **Portfolio Website** : https://sidgit7102.github.io/Siddharth_Sharma_Portfolio/
 
         
