@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm passionate about software development and mach
 
 I am an aspiring software developer with a strong focus on creating efficient and innovative solutions. My interests include machine learning, backend development, and I love astronomy by heart. I enjoy tackling challenging problems and continuously improving my skill set.
 
-- 🌱 Currently learning: Advanced machine learning techniques and Backend development.
+- 🌱 Currently learning: DSA (in C++), Advanced machine learning techniques and Backend development.
 - 💬 Ask me about: Python, DSA Problems, Machine Learning and a little about Astronomy.
 - 📫 How to reach me: sidsharma7102@gmail.com
 
