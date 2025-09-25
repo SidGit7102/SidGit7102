@@ -64,7 +64,14 @@ A system designed to detect pedestrians in real-time from video streams, enhanci
   - High accuracy in various environmental conditions
   - Integration with traffic management systems for improved safety
   - Potential use in autonomous driving systems
-    
+
+## 💼 Experience  
+
+| Company                 | Location | Role               | Duration           |
+|-----------------------|----------|-------------------|------------------|
+| Erasmith Technologies | Noida    | Backend Developer | Dec 2024 – Present |
+
+
 ## 📔 Academic
 
 | Education       | Institution                                   | Score / CGPA | Duration              |
